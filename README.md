@@ -2,4 +2,4 @@
 
 Repositório - Curso de Desenvolvimento de Sistemas SENAI/SESI Sumaré
 ![quadro-decorativo-familia-de-girafas-arte](https://user-images.githubusercontent.com/125597510/220901202-0bef76df-bbfd-41e6-8913-a0440cfa4496.jpg)
-![This is an image](https:giraffe-614141__480.jpg)
+![This is an imagiraffe-614141__480.jpgge](https:giraffe-614141__480.jpg)
